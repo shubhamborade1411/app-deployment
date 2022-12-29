@@ -5,8 +5,8 @@ We can choose that period of time
 The App also shows the volume generated over that period of time.
 
 ## Tools and Packages Used 
-Jupyter Notebook
-Python
-Streamlit
-Pandas
+- Jupyter Notebook
+- Python
+- Streamlit
+- Pandas
 
